@@ -1,0 +1,36 @@
+{
+    "workbench.colorTheme": "Ballerini Theme",
+    "workbench.iconTheme": "vscode-icons",
+    "git.enableSmartCommit": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.cursorBlinking": "smooth",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "extensions.ignoreRecommendations": true,
+    "window.menuBarVisibility": "toggle", //not for Mac
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "files.exclude": {
+        ".angular": true,
+        ".vscode": true,
+        "node_modules": true
+    },
+    "codesnap.backgroundColor": "#bb99f5",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.defaultDateLocale": "pt-br",
+    "gitlens.defaultDateFormat": "DD/MM/YYYY hh:mma",
+    "gitlens.defaultDateShortFormat": "DD/MM/YYYY",
+    "gitlens.defaultTimeFormat": "hh:mma",
+    "explorer.confirmDragAndDrop": false
+}
