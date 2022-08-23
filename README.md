@@ -18,7 +18,7 @@ Algumas extensões e configurações muito uteis para o VS Code.
     "editor.minimap.enabled": false
 ```
 
-Configura o menu para aparecer só quando apertar Alt:
+- Configura o menu para aparecer só quando apertar Alt:
 ```bash
     "window.menuBarVisibility": "toggle"
 ```
