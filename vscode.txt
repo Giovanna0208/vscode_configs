@@ -8,7 +8,7 @@
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
     "extensions.ignoreRecommendations": true,
-    "window.menuBarVisibility": "toggle", //not for Mac
+    "window.menuBarVisibility": "toggle",
     "[dart]": {
         "editor.formatOnSave": true,
         "editor.formatOnType": true,
@@ -32,5 +32,6 @@
     "gitlens.defaultDateFormat": "DD/MM/YYYY hh:mma",
     "gitlens.defaultDateShortFormat": "DD/MM/YYYY",
     "gitlens.defaultTimeFormat": "hh:mma",
-    "explorer.confirmDragAndDrop": false
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay"
 }
